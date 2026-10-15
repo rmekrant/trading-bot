@@ -1,0 +1,10 @@
+# Secrets : NE JAMAIS publier
+.env
+
+# Fichiers générés / personnels
+data/
+__pycache__/
+*.pyc
+bot.log
+paper_state.json
+trades_log.csv

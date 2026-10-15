@@ -1,0 +1,9 @@
+famille,paramètres retenus,verdict,rendement médian TEST,buy&hold médian,actifs gagnants,trades TEST,profit factor,rend. frais x2,moitié 1 / moitié 2,drawdown médian,% params gagnants,pourquoi rejetée
+Cassure (Donchian),Cassure 24/12 filtre 125,PROMETTEUR,+16.7%,+24.5%,4/5,239,1.56,+9.9%,+12.3% / +3.0%,-18.3%,93%,
+Croisement EMA,EMA 12/50,PROMETTEUR,+10.0%,+24.5%,5/5,274,1.28,+3.0%,+7.7% / +0.4%,-19.3%,87%,
+Repli RSI en tendance,RSI 5 (20/60) filtre 50,rejetée,-1.0%,+24.5%,2/5,32,0.54,-1.2%,-1.0% / +0.1%,-2.5%,4%,gagnante sur >= 60% des actifs; >= 60 trades; profit factor médian >= 1.15; encore gagnante avec des frais x2; pas un coup isolé (>= 40% des paramètres gagnants); gagnante dans les 2 moitiés de la période test
+Bollinger en tendance,Bollinger 24 x2.0 filtre 50,rejetée,-0.1%,+24.5%,1/5,12,0.52,-0.3%,+0.0% / +0.0%,-1.1%,6%,gagnante sur >= 60% des actifs; >= 60 trades; profit factor médian >= 1.15; encore gagnante avec des frais x2; pas un coup isolé (>= 40% des paramètres gagnants); gagnante dans les 2 moitiés de la période test
+Momentum,Momentum 18h > 3%,rejetée,-13.5%,+24.5%,1/5,885,0.79,-26.0%,-0.3% / -16.9%,-24.4%,70%,gagnante sur >= 60% des actifs; profit factor médian >= 1.15; encore gagnante avec des frais x2; gagnante dans les 2 moitiés de la période test
+Supertrend,Supertrend 21 x5,PROMETTEUR,+11.7%,+24.5%,4/5,111,1.74,+9.4%,+11.0% / +0.9%,-13.5%,100%,
+MACD en tendance,MACD 24/52/18 filtre 125,PROMETTEUR,+12.7%,+24.5%,4/5,437,1.31,+2.4%,+6.4% / +3.4%,-15.3%,100%,
+Keltner,Keltner 24 x1.5,PROMETTEUR,+11.8%,+24.5%,5/5,325,1.36,+6.8%,+11.5% / +4.0%,-14.6%,89%,
